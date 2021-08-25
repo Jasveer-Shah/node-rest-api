@@ -1,0 +1,14 @@
+{
+  "name": "building-a-rest-api-using-nodejs",
+  "version": "1.0.0",
+  "description": "tech used --\r node.js\r postman\r vs code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasveer shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
